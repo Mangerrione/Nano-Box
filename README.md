@@ -1,7 +1,6 @@
 # DIY NanoMig Case V1
-The goal of the project was to create a nice litte case for the NanoMig.
-
-The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum.
+The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum. 
+The goal of this project was to create a nice litte case for the NanoMig.
 
 https://github.com/harbaum/nanomig
 
