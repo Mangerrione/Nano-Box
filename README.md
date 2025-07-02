@@ -1,4 +1,4 @@
-# DIY NanoMig Case V1
+# NanoMig-Box V1
 The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum. 
 
 https://github.com/harbaum/nanomig
