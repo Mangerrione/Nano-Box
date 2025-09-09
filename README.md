@@ -12,7 +12,7 @@ V1 is handwired but works!
 ![NanoMig-DB9-Edition 02s](https://github.com/user-attachments/assets/1994f838-5184-407d-aeb2-5c927979a756)
 
 
-V2 is a custom PCB in the same case...
+V2 will be a custom PCB in the same case...
 
 <img width="1126" height="1040" alt="NanoMig-V3-01a" src="https://github.com/user-attachments/assets/854deade-f38f-46ea-a440-68230dcb8579" />
 
