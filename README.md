@@ -18,7 +18,7 @@ Size: 100 x 100 x 27 mm
 
 ![NanoMig 1](https://github.com/user-attachments/assets/335db783-6d95-4d07-b18e-39ad91f43b21)
 
-V1 is handwired but works!
+V1 is handwired but works...
 
 ![NanoMig-DB9-Edition 02s](https://github.com/user-attachments/assets/1994f838-5184-407d-aeb2-5c927979a756)
 
