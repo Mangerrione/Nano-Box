@@ -3,7 +3,7 @@ The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum.
 
 https://github.com/harbaum/nanomig
 
-The goal of this project was to create a (3D printable) nice litte case for the NanoMig / MiSTery Nano / C64 Nano!
+The goal of this project was to create a (3D printable) litte case for the NanoMig / MiSTery Nano / C64 Nano!
 
 Features:
 
