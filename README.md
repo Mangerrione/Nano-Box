@@ -7,7 +7,7 @@ The goal of this project was to create a (3D printable) nice litte case for the 
 
 Features:
 
-- 4 USB-Posts
+- 4 USB-Ports
 - 2 DB9-Ports
 - HDMI-Out
 - Power Switch
