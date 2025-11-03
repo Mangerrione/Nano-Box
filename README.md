@@ -1,5 +1,5 @@
 # Nano-Box
-The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum based on the MiniMig core.
+The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum based on the Tang Nano FPGA series and the MiniMig core.
 
 https://github.com/harbaum/nanomig
 
@@ -9,10 +9,10 @@ Features:
 
 - 4 USB-Ports
 - 2 DB9-Ports
-- HDMI-Out
+- HDMI-Out Connector
 - Power Switch
-- USB-C Power
-- SD-Card Slot
+- USB-C Power Connector
+- Full Size SD-Card Slot
 
 Size: 100 x 100 x 27 mm
 
