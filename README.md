@@ -1,5 +1,5 @@
 # Nano-Box
-The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum based on the Tang Nano FPGA series and the MiniMig core.
+The NanoMig is the recreation of an Amiga 500+ in FPGA by Till Harbaum, based on the Tang Nano FPGA series and the MiniMig core.
 
 https://github.com/harbaum/nanomig
 
